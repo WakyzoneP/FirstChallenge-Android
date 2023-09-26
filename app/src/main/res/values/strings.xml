@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FirstChallenge-Android</string>
+    <string name="press_me">Press Me</string>
+    <string name="email">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="example_nevexo_ro">example@nevexo.ro</string>
+    <string name="john">John</string>
+    <string name="doe">Doe</string>
 </resources>
